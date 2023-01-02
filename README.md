@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Sharad
+- 👋 Hi, I’m <b>Sharad</b>; A web developer and cyber security researcher with a passion for creating secure and user-friendly websites.
 - 👀 If you're looking for a web developer or security researcher, I'm your guy.
 
 <!---
