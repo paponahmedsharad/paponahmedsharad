@@ -1,8 +1,7 @@
 
 ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)Hi!
 ==============================================================================================================================
-This is Sharad; I am a web developer
-and cyber security researcher with a passion for
+This is <b>Sharad</b>; I am a <strong>web developer</strong> and <strong>cyber security researcher</strong> with a passion for
 creating secure and user-friendly websites. If
 you're looking for a web developer or security
 researcher, I'm your guy.
